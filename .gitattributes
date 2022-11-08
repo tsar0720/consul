@@ -1,0 +1,1 @@
+consul_1.11.1_windows_amd64.zip filter=lfs diff=lfs merge=lfs -text
